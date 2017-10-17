@@ -1,0 +1,63 @@
+
+body {
+font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+ul li {
+	list-style-type: none;
+}
+
+.fedex_content {
+	border: 1px solid #626871;
+	margin: 40px auto;
+	max-width: 700px;
+}
+
+.fedex_main {
+	padding: 20px 0px;
+	border-bottom: 1px solid #d4d4d4;
+}
+
+.fedex_main h4 {
+	font-size: 18px;
+	color: #363F4B;
+	padding-left: 20px;
+}
+
+
+.fedex_main li label {
+	color: #363F4B;
+	font-size: 12px;
+	width: 93px;
+	line-height: 0px;
+
+}
+.fedex_main .btn {
+	padding:3px 9px;
+	font-size: 11px;
+	background-color: #2D8DD6;
+	color: #ffffff;
+	border-radius: 6px;
+}
+.col-origin p{
+	color:  #363F4B
+}
+
+.fedex_main .btn:hover {
+	background-color: #206CA6;
+}
+
+.fedex_bar {
+	border-bottom: 1px solid #dddddd;
+	padding:20px 0px;
+}
+
+
+.fedex_bar .bar_first img {
+	margin: 0 auto;
+	padding: 30px;
+}
+
+.fedex_bar .bar_second img {
+	margin: 0 auto;
+}

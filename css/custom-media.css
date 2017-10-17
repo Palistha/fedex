@@ -1,0 +1,37 @@
+@media screen and (max-width: 988px){
+	.fedex_main h4 {
+	font-size: 20px;
+	
+}
+}
+
+@media screen and (max-width: 768px){
+	.fedex_main h4 {
+	font-size: 16px;
+	
+}
+
+.col-origin p {
+	font-size: 10px;
+}
+
+ .fedex_main ul li label{
+	font-size: 9px;
+}
+
+
+.fedex_main ul li {
+	font-size: 9px;
+}
+ 
+.fedex_main ul {
+	margin-left: -23px;
+}
+
+.fedex_main .col_origin p label {
+	font-size: 12px;
+}
+
+}
+
+
